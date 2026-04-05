@@ -1,0 +1,18 @@
+
+==============================
+        AI Radiology Report
+==============================
+
+Patient ID: 20260226121311
+Scan Type: Chest X-ray
+Prediction: Normal
+Confidence Score: 100.00%
+
+Assessment:
+No Radiographic Evidence of Tuberculosis
+
+Recommendation:
+Routine clinical follow-up if symptoms persist.
+
+Note:
+This is an AI-assisted diagnosis and should be verified by a certified radiologist.
